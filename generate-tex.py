@@ -3,7 +3,7 @@ import os
 
 month = 7
 
-editor_in_chief = ["Qing Gu, Undergraduate, 2018", "Hongxu Zhou, Undergraduate, 2019"]
+editor_in_chief = ["Shuoan Li, Undergraduate, 2022", "Feixuan Du, Undergraduate, 2020"]
 
 editors = []
 
