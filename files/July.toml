@@ -1,0 +1,25 @@
+[editor]
+name = "Xintong Xie" # 格式类似于Shuoan Li
+degree = "Undergraduate, 2020" # 格式类似于Undergraduate, 2022
+
+[article.1] # 罗马数字指定文献编号
+title = "Emotion category-modulated interpretation bias in perceiving ambiguous facial expressions"
+doi = "https://doi.org/10.1177/03010066231186936" # 以https://doi.org/开头
+authors = "Emily Todd, Shaini Subendran"
+journal = "Perception"
+publish = " July 10, 2023" # 如发发布年份，期号，卷号，页码
+category = "Emotion, Facial expression" # Emotion, Face, Cross-culture等，注意首字母大写
+summary = "与典型的面部表情相比，我们在感知模糊表情时表现出较低的感知容忍度，表现出解释偏差。作者在两个眼动追踪实验中发现：表达模糊性的增加和图像质量的下降导致了表达分类中普遍存在的消极与积极偏差，并提出对模糊表情的感知可能是由类似于感知原型表情的分类过程引导的。" # 中文的概括
+abstract = "In contrast to prototypical facial expressions, we show less perceptual tolerance in perceiving vague expressions by demonstrating an interpretation bias, such as more frequent perception of anger or happiness when categorizing ambiguous expressions of angry and happy faces that are morphed in different proportions and displayed under high- or low-quality conditions. However, it remains unclear whether this interpretation bias is specific to emotion categories or reflects a general negativity versus positivity bias and whether the degree of this bias is affected by the valence or category of two morphed expressions. These questions were examined in two eye-tracking experiments by systematically manipulating expression ambiguity and image quality in fear- and sad-happiness faces (Experiment 1) and by directly comparing anger-, fear-, sadness-, and disgust-happiness expressions (Experiment 2). We found that increasing expression ambiguity and degrading image quality induced a general negativity versus positivity bias in expression categorization. The degree of negativity bias, the associated reaction time and face-viewing gaze allocation were further manipulated by different expression combinations. It seems that although we show a viewing condition-dependent bias in interpreting vague facial expressions that display valence-contradicting expressive cues, it appears that the perception of these ambiguous expressions is guided by a categorical process similar to that involved in perceiving prototypical expressions."
+keywords = "facial expression, expression ambiguity, expression categorization, gaze behaviour, interpretation bias" # 用英文逗号分隔
+
+[article.2] # 参照article.1
+title = "Does Emotion Regulation Flexibility Work? Investigating the Effectiveness of Regulatory Selection Flexibility in Managing Negative Affect"
+doi = "https://doi.org/10.1177/19485506231189002" # 以https://doi.org/开头
+authors = "Emily Todd, Shaini Subendran"
+journal = "Social Psychological and Personality Science"
+publish = " July 21, 2023" # 如发发布年份，期号，卷号，页码
+category = "Emotion" # Emotion, Face, Cross-culture等，注意首字母大写
+summary = "调节选择灵活性（regulatory selection flexibility）指灵活选择适合动态情境需求的情绪调节策略的能力。作者利用行为调节选择任务，令被试观看情绪强度不同的负面图像，并选择参与认知改变（重新评估）或注意力脱离（分心）策略来管理他们的情绪反应，发现调节选择灵活性强的人能更大程度地减少情绪的负面影响。" # 中文的概括
+abstract = "Regulatory selection flexibility—the ability to flexibly choose emotion regulation strategies that are appropriate to dynamic contextual demands—has been theorized as a critical component of adaptive emotional functioning. Despite this, little research has investigated whether individual differences in regulatory selection flexibility influence real-time emotional experiences. The current study aimed to test the effectiveness of regulatory selection flexibility in reducing negative affect while exposed to emotion-eliciting stimuli. Using a behavioral regulatory selection task, participants viewed negative images that differed in emotional intensity and selected between engagement cognitive change (reappraisal) or attentional disengagement (distraction) strategies to manage their emotional responses. Negative affect was rated immediately before and after the regulatory period, to index emotional experience. Greater regulatory selection flexibility was associated with greater reductions in negative affect. Our findings offer preliminary evidence for the immediate psychological benefit of regulatory selection flexibility and highlight some promising avenues for future research."
+keywords = "emotion regulation, flexibility, regulatory selection, reappraisal, distraction" # 用英文逗号分隔
