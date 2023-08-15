@@ -1,0 +1,15 @@
+[editor]
+name = "Feixuan DU"
+degree = "Undergraduate, 2020"
+
+[article.1]
+title = "The impact of affective information on working memory: A psychometric approach."
+doi = "https://doi.org/10.1037/xlm0001165"
+authors = "Annette Brose, Johanna M. Grosse Rueschkamp,Peter Kuppens, Denis Gerstorf & Florian Schmiedek"
+journal = "Journal of Experimental Psychology:Learning, Memory, and Cognition"
+publish = "Volume 49, issue 7, 1 Jul 2023"
+category = "Emotion"
+summary = "以往研究表明，心理健康的个体在中性条件和情感条件下的工作记忆平均水平差异很小。本研究采用3种n-back范式，研究结果表明在大学生样本中不存在潜在的WM因子可以分别捕捉中性刺激和情感刺激的处理过程。"
+abstract = "It has been debated whether working memory (WM) performance is modulated by the valence of the stimuli that are being processed. A recent meta-analysis revealed that at the behavioral level and in individuals without mental health problems, mean-level performance differences in WM tasks with neutral versus affective conditions are small to negligible. We took this finding an important step further by employing a psychometric approach. This is an important refinement of previous work because even in the absence of mean-level differences, differential processing of affective versus nonaffective information may still be occurring. We examined whether at the construct level, 2 latent WM factors could be distinguished in capturing the processing of neutral and affective stimuli, respectively. Applying confirmatory factor analyses (N = 183 university students) to a battery of 18 tasks (3 n-back paradigms crossed with 3 stimulus types and neutral vs. affective valence), the 2 factors correlated perfectl. This result was replicated when neutral stimuli were analyzed together with either positive or negative stimuli. Based on individual differences, the processing of affective versus nonaffective stimuli in WM therefore cannot be distinguished, at least not in a student sample of younger adults."
+keywords = "working memory, affect, emotion, psychometric approach"
+
