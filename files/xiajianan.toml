@@ -1,0 +1,25 @@
+[editor]
+name = "Jianan XIA"
+degree = "Undergraduate, 2020"
+
+[article.1]
+title = "Show me your friends, I'll tell you your emotions: Emotional fit of immigrant-origin minority youth in cross-cultural friendship networks"
+doi = "https://doi.org/10.1111/bjso.12640"
+authors = "Alba Jasini, Jozefien De Leersnyder, Matteo Gagliolo, Judit Kende, Karen Phalet & Batja Mesquita"
+journal = "British Journal of Social Psychology"
+publish = "Volume 62, issue 3, Pages 1435-1452"
+category = "Culture"
+summary = "为了验证移民出身的少数文化群体与主流文化群体的情感联结对少数文化群体对于主流文化情感的适应性，本研究通过情绪模式问卷、网络相关问卷等方式，在比利时的移民群体与多数青少年中发现移民群体青少年与主流文化的情感契合度与他们与班级多数主流文化群体现实与网络中的友谊关系数量均呈正相关。"
+abstract = "The typical emotional responses to certain types of situations differ across cultures. Being reprimanded by your teacher in front of the class may be cause for anger and indignation among pupils in one cultural context, but for anger, shame, and possibly respect for the teacher among pupils in another cultural context. The consequence for immigrant-origin minorities is that they may not fit the emotions of the majority culture. Previous research has found that minorities who have majority contact have higher emotional fit with the majority culture. In the current study, we suggest that friendships with majority peers are particularly important to minorities' emotional fit. Students (945 minority and 1256 majority) from a representative sample of Belgian middle schools completed a sociometric questionnaire on their classroom friendships and rated their emotional experiences in two situations. Multilevel models yielded higher levels of emotional fit for minority youth with many (vs. few) majority friends as well as for minorities whose majority friends are connected (vs. less connected) to each other, or who are well-connected in the majority peer network. Having majority friends predicted emotional fit over and above majority contact in general."
+keywords = "culture, emotional acculturation, friendship, immigrant-origin minority"
+
+[article.2]
+title = "Your voice pitch speaks volumes about you: How voice pitch affects mind perception of  the speakers"
+doi = "https://doi.org/10.1111/bjso.12630"
+authors = "Wen Jie Jin & Sang Hee Park"
+journal = "British Journal of Social Psychology"
+publish = "Volume 62, issue 3, Pages 1230–1250"
+category = "Voice"
+summary = "本研究通过三个实验说明我们对他人的心里感知会收到目标声音音高的影响，并且影响对于目标的判断以及行为意图。"
+abstract = "Three studies investigated how speakers' pitch affects listeners' attribution of mental capacity (e.g., the ability to feel emotions and physical sensations such as pain and pleasure; Gray et al., Science, 315, 2007, 619) to them and further explored downstream effects on social judgements. In Study 1 (N = 234), participants perceived more experience in higher-(vs. lower-)pitched speakers, whereas there was no significant difference in perception of agency to lower pitched or higher pitched speakers. In later studies, we expanded the relationship between male speakers' pitch and attributed experience in diverse contexts and observed that participants attributed more experience to higher pitched male victims, which was related to higher estimation of harm severity, leading to more negative judgement of the harmdoers (Study 2; N = 121) as well as recommendation for stronger treatment for the speakers (Study 3; N = 116). Our findings indicate that mind perception can vary as a function of targets' voice pitch, and in turn may influence people's judgements involving the speakers, as well as behavioural intentions towards them."
+keywords = "behavioural intention, experience, mind perception, social perception, voice pitch"
