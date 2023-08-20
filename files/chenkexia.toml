@@ -1,0 +1,70 @@
+[editor] 
+name = "Kexia Chen"  
+degree = "Undergraduate, 2020"
+
+[article.1] 
+title = "The Political Is Personal: The Costs of Daily Politics" 
+doi = "https://doi.org/10.1037/pspa0000335" 
+authors = "Brett Q. Ford, Matthew Feinberg, Bethany Lassetter, Sabrina Thai, and Arasteh Gatchpazian" 
+journal = "Journal of Personality and Social Psychology" 
+publish = "2023, Vol. 125, No. 1, 1–28" 
+category = "Emotion" 
+summary = "本研究将情感科学框架应用于政治心理学研究，以对人们的政治体验进行基本预测。根据慢性压力相关文献，日常政治事件常会在公民的日常生活中引发负面情绪，而这些情绪会预示着日常福祉会更差。 但是，根据对情绪的功能性解释，预计这些日常负面情绪也会激励公民采取旨在改善政治制度的政治行动。 最后，还预测个人会使用情绪调节策略来应对负面情绪，将有助于保护他们的福祉，但也会降低他们采取行动的动力。 因此，设想了两条平行的路径，（1）通过情绪调节减少负面情绪应该影响人们的心理和身体健康（2）也应该他们采取集体行动的动力。" 
+abstract = "Politics and its controversies have permeated everyday life, but the daily impact of politics on the general public is largely unknown. Here, we apply an affective science framework to understand how the public experiences daily politics in a two-part examination. We first used longitudinal, daily diary methods to track two samples of U.S. participants as they experienced daily political events across 2 weeks (Study 1: N = 198, observations = 2,167) and 3 weeks (Study 2: N = 811, observations = 12,790) to explore how these events permeated people’s lives and how people coped with that influence. In both diary studies, daily political events consistently not only evoked negative emotions, which corresponded to worse psychological and physical well-being, but also greater motivation to take political action (e.g., volunteer, protest) aimed at changing the political system that evoked these emotions in the first place. Understandably, people frequently tried to regulate their politics-induced emotions, and regulating these emotions using effective cognitive strategies (reappraisal and distraction) predicted greater well-being, but also weaker motivation to take action. Although people protected themselves from the emotional impact of politics, frequently used regulation strategies came with a trade-off between well-being and action. Second, we conducted experimental studies where we manipulated exposure to day-to-day politics (Study 3, N 922), and the use of various emotion regulation strategies in response (Study 4, N = 1,277), and found causal support for the central findings of Studies 1–2. Overall, this research highlights how politics can be a chronic stressor in people’s daily lives, underscoring the far-reaching influence politicians have beyond the formal powers endowed unto them." 
+keywords = "politics, well-being, emotion, emotion regulation, stress" 
+
+[article.2] 
+title = "Judging a Book by Its Cover: Cultural Differences in Inference of the Inner State Based on the Outward Appearance" 
+doi = "https://doi.org/10.1037/pspi0000413" # 以 https://doi.org/开头
+authors = "Li-Jun Ji, Albert Lee, Zhiyong Zhang, Ye Li, Xin-Qiang Wang, Debra Torok, and Sam Rosenbaum" 
+journal = "Journal of Personality and Social Psychology" 
+publish = "2023, Vol. 125, No. 1, 82–99" 
+category = "Culture" 
+summary = "研究考察了关于外表与内在状态之间关系的文化假设，并在一系列社会现象中进行了测试。 五项研究表明，中国人比欧洲裔加拿大人更有可能做出偏离外在表现的内心状态的推断，而欧洲裔加拿大人比中国人更有可能做出与外表趋同的推断。 无论推理是针对人类（朋友和陌生人）还是非人类（酒店和餐馆）目标，无论分析单位是单个人（篮球运动员）还是多人（一对夫妇），都会观察到这些特定于文化的模式。 这些效应无法用对应偏差或认知闭合的需要来解释，而是由“外表可能具有误导性”这一信念所介导。" 
+abstract = "The world can be represented by two layers of information: How it appears on the outside (outward appearance) and what it is on the inside (inner state). To what extent an outward appearance is assumed to reflect the inner state is fundamental to social inference and judgments. Conceptualizing inference in terms of the relationship between the outward appearance and the inner state generates an integrative interpretation for a wide range of phenomena. We showed that Chinese were more likely than Euro-Canadians to make inference of inner state that deviated from outward appearance, whereas Euro-Canadians were more likely than Chinese to infer a
+convergence between outward appearance and inner state (Studies 1–5). We observed these cross-cultural patterns in various contexts involving people or physical structures. Individual differences in correspondence bias or response bias did not explain these patterns. The lay belief that outward appearance can be misleading mediated the cultural effects (Study 4). To probe the underlying process, two additional experiments showed that highlighting the misleading nature of appearance, but not highlighting the power of the situation, reduced Americans’ beliefs (Study 6) and inference (Study 7) that the outward appearance reflects the inner state. By focusing on the assumed relationship between the outward appearance and inner state, these findings provide a unique angle for understanding cross-cultural phenomena and have practical implications in daily life." 
+keywords = "outward appearance, inner state, culture, convergence inference" 
+
+[article.3] 
+title = "Frequent experience with face coverings for 10 months improves emotion perception among individuals with high autistic traits: A repeated cross-sectional study" 
+doi = "https://doi.org/10.1177/17470218221135585" 
+authors = "Jia Hoong Ong and Fang Liu" 
+journal = "Quarterly Journal of Experimental Psychology" 
+publish = "2023, Vol. 76, Issue 7, 1599–1608" 
+category = "Face" 
+summary = "佩戴脸部遮盖物对人们识别他人情绪能力产生了负面影响，这可能是因为脸部遮盖物限制了人们所能感知的情绪信息（即仅通过眼睛）。然而，鉴于自闭症患者或具有高度自闭症特质的人往往具有较差的情绪识别能力，并且会避免观察眼睛区域，因此，我们是否能随着使用脸部遮盖物的经验增加而提高仅从眼睛识别情绪的能力，以及这种提高是否取决于个人的自闭症特质，目前尚不清楚。因此本研究通过考察成年被试在面部覆盖任务开始时和 10 个月后从眼睛照片中识别情绪的能力，直接探讨了这些问题。发现高度自闭症患者的情绪识别能力普遍较差。而 10 个月后，高度自闭症患者的眼睛情绪识别能力会随着他们与佩戴面部遮盖物的他人接触的次数而提高，与佩戴面部遮盖物的他人互动越多，他们的识别能力就越强。这意味着，尽管自闭症患者最初很难通过眼睛识别情绪，但如果有足够的接触和经验，他们的识别能力可能会提高。" 
+abstract = "Face coverings pose difficulties for emotion recognition, but it is unclear whether improvement in recognising emotions from the eyes is possible with experience and whether this might be dependent on one’s autistic traits, given the associations between high autistic traits and poorer emotion perception and reduced gaze to the eye region. In this preregistered study, participants completed a forced-choice emotion recognition task with photographs of eyes and demographic questionnaires that measure their autistic traits and their interaction frequency with others wearing face coverings at two time points: once at the start of the face covering mandate and again 10 months later. We found that after 10 months, individuals with high autistic traits as a cohort recognised emotions from just the eyes better as a function of their experience with others wearing face coverings, suggesting that emotion perception is malleable even for those who have difficulties with emotion perception." 
+keywords = "Emotion perception, autism, perceptual learning, face coverings" 
+
+[article.4] 
+title = "Things are looking up: Vertical eye gaze in the environment affects perceptions of emotional valence in sad faces" 
+doi = "https://doi.org/10.1177/17470218221135429" 
+authors = "Stephen J Flusberg, Derek Shapiro, Kevin B Collister and Paul H Thibodeau" 
+journal = "Quarterly Journal of Experimental Psychology" 
+publish = "2023, Vol. 76, Issue 7, 1641–1657"
+category = "Emotion"
+summary = "四项实验提供的证据表明，一种沿纵轴的新型注视线索会影响人们对悲伤情绪表情的感知和分类。然而，这种空间-价值不一致效应似乎并没有延伸到对快乐面孔的判断上，这可能反映了人们在处理接近和回避相关情绪表达方式上的内在差异。这些发现对那些利用对传统隐喻语言的观察来推断潜在认知表征的学者有一定的启发。虽然人们在谈论积极情绪和消极情绪时都会使用垂直空间隐喻，但这篇研究表明，环境参照系中的垂直凝视线索只能缓和对消极情绪表达的判断。" 
+abstract = "Successful social interactions depend on the ability to quickly evaluate emotional facial expressions. Research has shown that head orientation and eye gaze are informative affective signals. Across four experiments, we explored a novel eye-gaze cue grounded in a consideration of English spatial metaphors, where up connotes positive feelings (“I’m flying high”) and down connotes negative feelings (“I’m feeling low”). Participants either rated the valence of or categorised a set of sad and happy faces gazing in different directions along the vertical axis. We expected to find a spatial–valence congruency effect, where valence ratings and reaction times would be moderated by whether or not the face was gazing in a metaphor-consistent direction. The results partially supported this hypothesis: sad faces gazing upwards (as opposed to downwards) were rated as happier or more positive (Experiments 1 and 2) and classified slower (Experiments 3 and 4). This was true whether the looking direction was cued by eye gaze in front-view faces (Experiment 1) or by the orientation of profile faces (Experiments 2–4). In addition, this spatial–valence congruency effect was only reliable in the environmental frame of reference (Experiment 4). We found little evidence for a comparable effect of gaze direction on judgements of happy faces, suggesting that eye gaze along the vertical axis may differentially affect judgements of approach and avoidance-related emotional expressions. This has implications for the inferences scholars draw about underlying cognitive representations from observations of conventional metaphorical language." 
+keywords = "Emotional face processing, spatial–valence congruency effect, metaphor, spatial reference frames, face perception"
+
+[article.5] 
+title = "Tell me all about it: Narrated memories are less emotional than imagined memories" 
+doi = "https://doi.org/10.1177/17470218221126720"
+authors = "Jackie Andrade, Tom IJdema, Nicola Vadasz and Jon May" 
+journal = "Quarterly Journal of Experimental Psychology" 
+publish = "2023, Vol. 76, Issue 7, 1683–1695" 
+category = "Emotion" 
+summary = "评估了想象或叙述自传体记忆对情绪的影响。发现对于消极和积极的记忆，口头叙述记忆比想象回忆的情绪评分要低，但在回忆期结束后，两者对情绪的影响并无不同。这一发现并没有受到回忆质量或需求特征的影响：两种条件下的参与者都认为自己的回忆同样完整或生动，并且对所分配的条件会如何影响自己的情绪有着相似的先验预期。"
+abstract = "People often re-live memories by talking about them. Verbal thinking is usually less emotive than imagery-based thinking but it is not known if this finding generalises to recollection. We tested if narrating memories aloud reduces their affective charge compared with recollecting them using imagery. Participants were randomised to two conditions: imagery (recalling the memory silently as vividly as possible) or narration (describing the memory out loud as clearly as possible). After practicing with a neutral topic, they recalled three aversive (Experiments 1 and 2) or three happy (Experiment 3) memories using narration or imagery, and rated emotionality of the memory after each recall. Before and after the procedure, they completed the PANAS to measure effects on mood. Experiments 2 and 3 included a 24 h follow-up. Emotionality was consistently lower following narrated recollection than imaginal recollection: narrated M = 5.3, SD = 2.5; imaginal M = 7.2, SD = 2.0; effect size (difference in mean values divided by overall SD) = 0.78. Negative affect increased after recollection of aversive memories and positive affect decreased, but there were no effects of condition upon mood. Recalling a positive memory had no effect on mood. Follow-up data showed no lasting effects of recall mode on availability of memories or mood. We conclude that narration of emotional autobiographical memories reduces the emotionality of the recollection, but does not differentially change mood compared with image-based recall." 
+keywords = "Autobiographical memory, mental imagery, talking therapies, emotion" 
+
+[article.6] 
+title = "Attentional load effects on emotional content in face working memory" 
+doi = "https://doi.org/10.1177/17470218221125216"
+authors = "Livia Valenti, Isabella Wada Pucci, Ricardo Basso Garcia, Margaret C Jackson and Cesar Galera" 
+journal = "Quarterly Journal of Experimental Psychology" 
+publish = "2023, Vol. 76, Issue 7, 1696–1709"
+category = "Face"
+summary = "本研究探讨了工作记忆(WM)中处理情绪面孔（愤怒、悲伤和快乐）所需的注意力资源的影响。 在双任务范式中，分析了人脸识别工作记忆任务的性能，其中检索时有情绪面孔和中性面孔。 负载双任务注意力条件，分别为白噪音与音调计数。 总结这两个实验，发现(a) 无论测试面孔是情绪化的还是中性的，耗尽注意资源都会损害对愤怒和悲伤面孔的 WM，但不会损害对快乐面孔的 WM：这可能会在高负荷注意条件下产生对快乐面孔与悲伤和愤怒面孔的更好的 WM，而在低负荷条件下则不会产生情绪效应； (b) 在情绪探究组中，当测试面孔具有表现力时，因此编码时所看到的情绪在检索时仍然存在，WM 对快乐面孔的反应好于对愤怒和悲伤面孔的反应，总体表现优于测试面孔为中性时的表现。与此相反，在中性探究组中，测试面孔是中性的，因此在检索时不会再看到情绪信息，相反，发现悲伤面孔的 WM 比快乐面孔更好，但对于愤怒的面孔则不然。" 
+abstract = "This study investigated the role of attentional resources in processing emotional faces in working memory (WM). Participants memorised two face arrays with the same emotion but different identities and were required to judge whether the test face had the same identity as one of the previous faces. Concurrently during encoding and maintenance, a sequence of high- or low-pitched tones (high load) or white noise bursts (low load) was presented, and participants were required to count how many low-tones were heard. Experiments 1 and 2 used an emotional and neutral test face, respectively. The results revealed a significant WM impairment for sad and angry faces in the high-load versus low-load condition but not for happy faces. In Experiment 1, participants remembered happy faces better than other emotional faces. In contrast, Experiment 2 showed that performance was poorer for happy than sad faces but not for angry faces. This evidence suggests that depleting attentional resources has less impact on WM for happy faces than other emotional faces, but also that differential effects on WM for emotional faces depend on the presence or absence of emotion in the probe face at retrieval." 
+keywords = "Visual working memory, attention, face recognition, emotion" 
