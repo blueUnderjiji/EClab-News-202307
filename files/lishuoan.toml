@@ -1,0 +1,14 @@
+[editor]
+name = "Shuoan Li"
+degree = "Undergraduate, 2022"
+
+[article.1]
+title = "Memory for artwork is predictable"
+doi = "https://doi.org/10.1073/pnas.2302389120"
+authors = "Trent M. Davis, Wilma A. Bainbridge"
+journal = "Proceedings of the National Academy of Sciences"
+publish = "Vol. 120, No. 28, 11 July, 2023"
+category = "Art"
+summary = "被试对不同画作的记忆效果表现出一致性，且神经网络ResMem可以仅基于视觉特征预测画作可记忆性及名气，说明画作视觉特征决定其可记忆性并影响其成功程度。"
+abstract = "Viewing art is often seen as a highly personal and subjective experience. However, are there universal factors that make a work of art memorable? We conducted three experiments, where we recorded online memory performance for 4,021 paintings from the Art Institute of Chicago, tested in-person memory after an unconstrained visit to the Art Institute, and obtained abstract attribute measures such as beauty and emotional valence for these pieces. Participants showed significant agreement in their memories both online and in-person, suggesting that pieces have an intrinsic “memorability” based solely on their visual properties that is predictive of memory in a naturalistic museum setting. Importantly, ResMem, a deep learning neural network designed to estimate image memorability, could significantly predict memory both online and in-person based on the images alone, and these predictions could not be explained by other low- or high-level attributes like color, content type, aesthetics, and emotion. A regression comprising ResMem and other stimulus factors could predict as much as half of the variance of in-person memory performance. Further, ResMem could predict the fame of a piece, despite having no cultural or historical knowledge. These results suggest that perceptual features of a painting play a major role in influencing its success, both in memory for a museum visit and in cultural memory over generations."
+keywords = "art, memory, culture, AI"
