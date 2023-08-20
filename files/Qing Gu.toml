@@ -1,0 +1,14 @@
+[editor]
+name = "Qing Gu"
+degree = "Undergraduate, 2018"
+
+[article.1]
+title = "Enhanced Mood After a Getting-Acquainted Interaction with a Stranger: Do Shy People Benefit Too?"
+doi = "https://doi.org/doi10.1177/02654075221141433"
+authors = "Susan Sprecher, Rowland Miller, Beverley Fehr, Jeremy B. Kanter, Daniel Perlman, Diane Felmlee"
+journal = "Journal of Social and Personal Relationships"
+publish = "Volume 40, Issue 7, 2110-2126" 
+category = "Emotion"
+summary = "这项研究分析了与陌生人的认识交流对被试情绪的影响，发现这种交流可以增加积极情绪并减少消极情绪，且个体的羞怯程度不影响这种变化，表明弱社交联系在提高个体日常情绪方面的重要作用。"
+abstract = "People report positive moods and enhanced well-being when they socialize with friends and other close ties. However, because most people routinely have more encounters with acquaintances and strangers (social connections known as weak ties) than with close friends or kin (strong ties), we deemed it important to examine whether interaction with weak ties also enhances happiness and well-being. This investigation, which analyzed data from two laboratory procedures, examined whether participants’ positive affect (PA) increased and negative affect (NA) decreased, from before to after a getting-acquainted interaction with a stranger. We also considered whether any benefits of the interaction were moderated by the participants’ level of shyness. Participants (N = 270; 135 dyads) from a U.S. university completed mood indices before and after a getting-acquainted task. Their PA significantly increased and their NA significantly decreased from before to after the interaction. Shy participants experienced greater NA both before and after the getting-acquainted interaction (relative to less shy participants), but the shyness level of our participants did not moderate the pattern of change in their PA and NA. Shy participants experienced increases in PA and decreases in NA that were similar to those of less shy participants. We discuss implications of the results regarding the important role of weak social connections for increasing one’s daily mood, including for those who are shy."
+keywords = "Emotion, Social Connections, Weak Ties, Shy"
